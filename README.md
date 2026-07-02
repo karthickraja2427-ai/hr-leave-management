@@ -19,22 +19,7 @@ Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - Backend: PHP
 - Database: MySQL
-- Version Control: Git & GitHub
 
-Project Structure
-
-HR-Leave-Management-Tool/
-│── index.html
-│── login.php
-│── dashboard.php
-│── apply_leave.php
-│── leave_status.php
-│── admin/
-│── css/
-│── js/
-│── images/
-│── database/
-│── README.md
 
 Installation
 
